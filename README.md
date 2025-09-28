@@ -1,5 +1,6 @@
 # 🎮 Unity Package - Persinus Keystore Manager  
-![Persinus Keystore Manager Icon](Docs/icon.png)  
+<img src="Docs/icon.png" alt="Persinus Keystore Manager Icon" width="120"/>
+
 ![Persinus Keystore Manager Screenshot](Docs/screenshot.png)  
 
 A **Keystore Management Tool** for Unity.  
@@ -16,26 +17,13 @@ Easily check aliases, generate SHA1/SHA256 hashes, and quickly export for Androi
 3. Paste the following URL:  
 
 ```bash
-https://github.com/<username>/<repo-name>.git
+https://github.com/Persinus/persinus-keystore-manager.git
 ```  
 
-👉 If the package is inside a subfolder `Packages/com.persinus.keystoremanager`, use:  
-
-```bash
-https://github.com/<username>/<repo-name>.git#subfolder=Packages/com.persinus.keystoremanager
-```  
 
 ---
 
-### 2. Download `.unitypackage` directly  
 
-<a href="https://github.com/<username>/<repo-name>/releases/latest/download/PersinusKeystoreManager.unitypackage">
-  <img src="https://img.shields.io/badge/⬇️_Download_.unitypackage-blue?style=for-the-badge&logo=unity" alt="Download Unitypackage">
-</a>  
-
-👉 After downloading, open Unity → **Assets → Import Package → Custom Package…** and select the file.  
-
----
 
 ## ✨ Features  
 
