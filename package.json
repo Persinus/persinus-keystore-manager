@@ -1,0 +1,20 @@
+{
+  "name": "com.persinus.keystoremanager",
+  "version": "1.0.0",
+  "displayName": "Persinus Keystore Manager",
+  "description": "Extract SHA-1, SHA-256, and keystore validity directly from Unity Editor. Useful for Firebase, Google Sign-In, and Play Services.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Persinus",
+    "url": "https://github.com/Persinus"
+  },
+  "keywords": [
+    "keystore",
+    "android",
+    "firebase",
+    "google play",
+    "sha1",
+    "sha256"
+  ],
+  "license": "MIT"
+}
